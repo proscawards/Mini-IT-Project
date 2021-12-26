@@ -1,0 +1,289 @@
+[
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "31",
+        "timedepart": "04:00PM",
+        "depart": "Melaka",
+        "arrival": "Butterworth",
+        "listseatno": []
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "30",
+        "timedepart": "08:00AM",
+        "depart": "Melaka",
+        "arrival": "Butterworth",
+        "listseatno": []
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "31",
+        "timedepart": "08:00AM",
+        "depart": "Butterworth",
+        "arrival": "Melaka",
+        "listseatno": [
+            "3D",
+            "6A"
+        ]
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "29",
+        "timedepart": "12:00PM",
+        "depart": "Melaka",
+        "arrival": "Butterworth",
+        "listseatno": []
+    },
+    {
+        "year": "2018",
+        "month": "7",
+        "day": "25",
+        "timedepart": "12:00PM",
+        "depart": "Melaka",
+        "arrival": "Seremban",
+        "listseatno": []
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "31",
+        "timedepart": "12:00PM",
+        "depart": "Melaka",
+        "arrival": "Butterworth",
+        "listseatno": []
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "30",
+        "timedepart": "12:00PM",
+        "depart": "Melaka",
+        "arrival": "Butterworth",
+        "listseatno": [
+            "3A",
+            "3B",
+            "4A",
+            "4B",
+            "5A",
+            "5B",
+            "6A",
+            "6B"
+        ]
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "22",
+        "timedepart": "08:00AM",
+        "depart": "Melaka",
+        "arrival": "Seremban",
+        "listseatno": [
+            "2A",
+            "3A"
+        ]
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "24",
+        "timedepart": "04:00PM",
+        "depart": "Butterworth",
+        "arrival": "Melaka",
+        "listseatno": [
+            "2A",
+            "2B",
+            "3A",
+            "3B",
+            "4A",
+            "4B",
+            "5A"
+        ]
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "31",
+        "timedepart": "08:00AM",
+        "depart": "Butterworth",
+        "arrival": "Seremban",
+        "listseatno": [
+            "2A",
+            "3A",
+            "3B"
+        ]
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "30",
+        "timedepart": "04:00PM",
+        "depart": "Butterworth",
+        "arrival": "Melaka",
+        "listseatno": [
+            "3A"
+        ]
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "29",
+        "timedepart": "12:00PM",
+        "depart": "Butterworth",
+        "arrival": "Melaka",
+        "listseatno": [
+            "3A",
+            "3B"
+        ]
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "30",
+        "timedepart": "12:00PM",
+        "depart": "Butterworth",
+        "arrival": "Seremban",
+        "listseatno": []
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "30",
+        "timedepart": "08:00AM",
+        "depart": "Butterworth",
+        "arrival": "Seremban",
+        "listseatno": []
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "31",
+        "timedepart": "12:00PM",
+        "depart": "Butterworth",
+        "arrival": "Seremban",
+        "listseatno": []
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "30",
+        "timedepart": "04:00PM",
+        "depart": "Butterworth",
+        "arrival": "Seremban",
+        "listseatno": []
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "31",
+        "timedepart": "04:00PM",
+        "depart": "Butterworth",
+        "arrival": "Seremban",
+        "listseatno": [
+            "1A",
+            "1B",
+            "1C",
+            "1D",
+            "2A",
+            "2B",
+            "2C",
+            "3A",
+            "3B",
+            "4A",
+            "4B",
+            "5A",
+            "5B",
+            "6A",
+            "6B",
+            "6C",
+            "6D",
+            "7A",
+            "7B",
+            "7C",
+            "7D"
+        ]
+    },
+    {
+        "year": "2018",
+        "month": "5",
+        "day": "30",
+        "timedepart": "12:00PM",
+        "depart": "Melaka",
+        "arrival": "Seremban",
+        "listseatno": []
+    },
+    {
+        "year": "2018",
+        "month": "6",
+        "day": "10",
+        "timedepart": "04:00PM",
+        "depart": "Butterworth",
+        "arrival": "Melaka",
+        "listseatno": [
+            "1A",
+            "1B",
+            "1C",
+            "1D",
+            "2A",
+            "2B",
+            "2C",
+            "2D",
+            "3A",
+            "3B",
+            "3C",
+            "3D",
+            "4A",
+            "4B",
+            "4C",
+            "4D",
+            "5A",
+            "5B",
+            "5C",
+            "5D",
+            "6A",
+            "6B",
+            "6C",
+            "6D",
+            "7A",
+            "7B",
+            "7C",
+            "7D"
+        ]
+    },
+    {
+        "year": "2018",
+        "month": "6",
+        "day": "29",
+        "timedepart": "04:00PM",
+        "depart": "Butterworth",
+        "arrival": "Seremban",
+        "listseatno": [
+            "2A",
+            "3A",
+            "3B",
+            "4A",
+            "4B",
+            "5A",
+            "5B",
+            "5C",
+            "6A",
+            "6B",
+            "6C",
+            "7A",
+            "7B",
+            "7C"
+        ]
+    },
+    {
+        "year": "2018",
+        "month": "6",
+        "day": "29",
+        "timedepart": "12:00PM",
+        "depart": "Butterworth",
+        "arrival": "Seremban",
+        "listseatno": []
+    }
+]

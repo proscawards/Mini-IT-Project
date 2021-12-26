@@ -1,0 +1,26 @@
+Ticket Details:
+
+IC Number: 871026523662
+Departure: Melaka
+Arrival: Butterworth
+Date: 30/5/2018
+Departure Time: 12:00PM
+Seat Number: 5B
+Total Price: RM 54.00
+
+IC Number: 640625326623
+Departure: Melaka
+Arrival: Butterworth
+Date: 30/5/2018
+Departure Time: 12:00PM
+Seat Number: 6A
+Total Price: RM 54.00
+
+IC Number: None
+Departure: Melaka
+Arrival: Butterworth
+Date: 30/5/2018
+Departure Time: 12:00PM
+Seat Number: 6B
+Total Price: RM 54.00
+

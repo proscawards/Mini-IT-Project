@@ -1,0 +1,10 @@
+Ticket Details:
+
+IC Number: 940326523362
+Departure: Butterworth
+Arrival: Melaka
+Date: 30/5/2018
+Departure Time: 04:00PM
+Seat Number: 3A
+Total Price: RM 50.00
+

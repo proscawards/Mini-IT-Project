@@ -1,0 +1,26 @@
+Ticket Details:
+
+IC Number: 840203265523
+Departure: Butterworth
+Arrival: Seremban
+Date: 31/5/2018
+Departure Time: 08:00AM
+Seat Number: 3A
+Total Price: RM 50.00
+
+IC Number: 440205062362
+Departure: Butterworth
+Arrival: Seremban
+Date: 31/5/2018
+Departure Time: 08:00AM
+Seat Number: 2A
+Total Price: RM 27.00
+
+IC Number: 030905125523
+Departure: Butterworth
+Arrival: Seremban
+Date: 31/5/2018
+Departure Time: 08:00AM
+Seat Number: 3B
+Total Price: RM 50.00
+

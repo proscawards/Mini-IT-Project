@@ -1,0 +1,18 @@
+Ticket Details:
+
+IC Number: 990127565291
+Departure: Melaka
+Arrival: Seremban
+Date: 22/5/2018
+Departure Time: 08:00AM
+Seat Number: 3A
+Total Price: RM 12.00
+
+IC Number: 601020143352
+Departure: Melaka
+Arrival: Seremban
+Date: 22/5/2018
+Departure Time: 08:00AM
+Seat Number: 2A
+Total Price: RM 8.00
+
